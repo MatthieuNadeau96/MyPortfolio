@@ -76,7 +76,7 @@
 	}
 
 	body {
-		background: #202024;
+		background: #f1f1f1;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1365,7 +1365,7 @@
 
 	#footer {
 		padding: 4em 0 2em 0;
-		background-color: #1b1b1f;
+		background-color: #2c2c32;
 		text-align: center;
 	}
 
